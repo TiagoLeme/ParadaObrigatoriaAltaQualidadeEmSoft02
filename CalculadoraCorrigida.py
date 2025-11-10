@@ -1,4 +1,4 @@
-# Calculadora.py  (versão corrigida para os 3 bugs indicados)
+# Calculadora.py  (versão corrigida para os 3 bugs indicados no relatório)
 import numpy as np
 
 def adicao(x, y):
